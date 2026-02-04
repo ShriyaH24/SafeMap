@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+plotly
+geopandas
+shapely
+OSMPythonTools
+requests
+scikit-learn
+python-dotenv
+joblib
